@@ -1,4 +1,4 @@
-;;; coverage.el - display code coverage (supports phpunit and JavaScript jest)
+;;; coverage.el --- display code coverage (supports phpunit and JavaScript jest)
 ;;
 ;; Filename: coverage.el
 ;; Description: Display code coverage from jest javascript framework or phpunit
@@ -8,6 +8,10 @@
 ;; Version: 0.2
 ;; Package-Requires: (json highlight xml)
 ;;
+;;    Author: jcubic
+;;    Maintainer: Lareb Syed <lareb_khalil_syed@hotmail.com>
+;;    Created: 14 Feb 2020
+;;    Keywords: elisp
 ;;    This program is free software: you can redistribute it and/or modify
 ;;    it under the terms of the GNU General Public License as published by
 ;;    the Free Software Foundation, either version 3 of the License, or
